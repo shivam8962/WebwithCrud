@@ -1,2 +1,6 @@
 #include<conic.h>
 #include<studio.h>
+
+void  main()
+{
+};
